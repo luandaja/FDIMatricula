@@ -1,0 +1,9 @@
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\bin\Debug\DA.dll.config
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\bin\Debug\DA.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\bin\Debug\DA.pdb
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\bin\Debug\EntityFramework.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\bin\Debug\EntityFramework.xml
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\obj\Debug\DA.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\DA\obj\Debug\DA.pdb

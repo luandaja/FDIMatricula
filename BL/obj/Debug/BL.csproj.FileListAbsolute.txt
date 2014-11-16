@@ -1,0 +1,12 @@
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\BL.dll.config
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\BL.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\BL.pdb
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\DA.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\EntityFramework.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\DA.pdb
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\EntityFramework.xml
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\obj\Debug\BL.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\BL\obj\Debug\BL.pdb
