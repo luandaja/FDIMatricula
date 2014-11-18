@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\UI\obj\Debug\
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\
 UI
 none
 false
 DEBUG;TRACE
-c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\UI\App.xaml
-11151548125
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\App.xaml
+5-1220298517
 
-5-2017746502
-17-596759981
-MainWindow.xaml;
+9182022643
+17-1851145733
+MainWindow.xaml;Menu.xaml;PAlumnos.xaml;PCursos.xaml;PMatricula.xaml;
 
 False
 

@@ -18,25 +18,26 @@ namespace BL
 
         public bool agregarAlumno(Alumno a)
         {
-            //try
-            //{
+            try
+            {
                 Entidades da = new Entidades();
                 da.Alumnoes.Add(a);
                 da.SaveChanges();
                 return true;
-            //}
-            //catch
-            //{
-            //    return false;
-            //}
+            }
+            catch
+            {
+                return false;
+            }
+            
         }
         public bool actualizarAlumno(Alumno a)
         {
             try
             {
                 Entidades da = new Entidades();
-                Alumno alu = da.Alumnoes.First(x=>x.ID == a.ID);
-                //alu = a;
+                Alumno alu = da.Alumnoes.First(x => x.ID == a.ID);
+                alu = a;
                 alu.Nombre = a.Nombre;
                 alu.Apellido = a.Apellido;
                 alu.FechaNac = a.FechaNac; //5 minutos
@@ -53,18 +54,17 @@ namespace BL
         }
         public bool eliminarAlumno(Alumno a)
         {
-            //try
-            //{
+            try
+            {
                 Entidades da = new Entidades();
-                da.Alumnoes.Remove(da.Alumnoes.First(x=>x.ID == a.ID));
-                //da.Alumnoes.Remove(a);
+                da.Alumnoes.Remove(da.Alumnoes.First(x => x.ID == a.ID));
                 da.SaveChanges();
                 return true;
-            //}
-            //catch
-            //{
-            //    return false;
-            //}
+            }
+            catch
+            {
+                return false;
+            }
         }
         public List<Alumno> mostrarAlumnos()
         {

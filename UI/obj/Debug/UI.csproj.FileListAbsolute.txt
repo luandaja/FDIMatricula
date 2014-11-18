@@ -19,3 +19,32 @@ c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\UI\bin\Debu
 c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\UI\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\UI\obj\Debug\UI.exe
 c:\users\luisantoni\documents\visual studio 2013\Projects\RepasoCRUD\UI\obj\Debug\UI.pdb
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\UI.exe.config
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\UI.exe
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\UI.pdb
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\MainWindow.baml
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\MainWindow.g.cs
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\App.g.cs
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\UI.g.resources
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\UI.exe
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\UI.pdb
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\BL.dll
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\DA.dll
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\EntityFramework.dll
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\BL.pdb
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\DA.pdb
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\EntityFramework.xml
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\Menu.baml
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\Menu.g.cs
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\PAlumnos.baml
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\PCursos.baml
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\PAlumnos.g.cs
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\PCursos.g.cs
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\PMatricula.baml
+C:\Users\LuisAntoni\Documents\GitHub\FDIMatricula\UI\obj\Debug\PMatricula.g.cs

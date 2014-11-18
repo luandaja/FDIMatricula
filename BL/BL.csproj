@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL_Alumno.cs" />
+    <Compile Include="BL_Curso.cs" />
+    <Compile Include="BL_Matricula.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
